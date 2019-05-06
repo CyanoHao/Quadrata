@@ -1,0 +1,25 @@
+StartChar: Thorn
+Encoding: 222 222 158
+Width: 547
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+88 659 m 2
+ 88 706 72 729 43 750 c 1
+ 238 750 l 1
+ 212 732 189 701 192 659 c 1
+ 374 678 527 567 527 387 c 0
+ 527 208 376 88 192 104 c 1
+ 192 94 l 2
+ 192 46 208 19 238 0 c 1
+ 43 0 l 1
+ 73 21 88 43 88 94 c 2
+ 88 659 l 2
+192 177 m 1
+ 320 168 412 251 412 375 c 0
+ 411 502 323 593 192 586 c 1
+ 192 177 l 1
+EndSplineSet
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

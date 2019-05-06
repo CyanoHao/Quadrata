@@ -1,0 +1,13 @@
+StartChar: uni2023
+Encoding: 8227 8227 2038
+Width: 500
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+104 467 m 1
+ 420 323 l 1
+ 104 180 l 1
+ 104 467 l 1
+EndSplineSet
+EndChar

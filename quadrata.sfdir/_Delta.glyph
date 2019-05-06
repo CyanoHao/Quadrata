@@ -1,0 +1,19 @@
+StartChar: Delta
+Encoding: 8710 8710 2288
+Width: 623
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+203 700 m 1
+ 367 700 l 1
+ 653 0 l 1
+ -30 0 l 1
+ 226 633 l 2
+ 239 667 227 689 203 700 c 1
+297 609 m 1
+ 88 75 l 1
+ 508 75 l 1
+ 297 609 l 1
+EndSplineSet
+EndChar

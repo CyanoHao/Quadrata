@@ -1,0 +1,30 @@
+StartChar: uni0482
+Encoding: 1154 1154 1065
+Width: 609
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+164 -3 m 1
+ 101 30 l 1
+ 189 170 l 1
+ 51 243 l 1
+ 85 297 l 1
+ 225 224 l 1
+ 322 378 l 1
+ 183 451 l 1
+ 218 506 l 1
+ 357 433 l 1
+ 446 572 l 1
+ 508 540 l 1
+ 419 400 l 1
+ 559 327 l 1
+ 523 273 l 1
+ 385 345 l 1
+ 287 192 l 1
+ 426 118 l 1
+ 391 64 l 1
+ 252 136 l 1
+ 164 -3 l 1
+EndSplineSet
+EndChar

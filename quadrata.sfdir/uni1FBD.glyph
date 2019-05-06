@@ -1,0 +1,16 @@
+StartChar: uni1FBD
+Encoding: 8125 8125 1944
+Width: 254
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+120 658 m 0
+ 156 658 182 633 182 596 c 0
+ 182 532 131 508 64 497 c 1
+ 64 524 l 1
+ 95 530 121 539 121 567 c 0
+ 121 597 73 581 73 619 c 0
+ 73 643 94 658 120 658 c 0
+EndSplineSet
+EndChar

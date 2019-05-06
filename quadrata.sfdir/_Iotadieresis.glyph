@@ -1,0 +1,9 @@
+StartChar: Iotadieresis
+Encoding: 938 938 863
+Width: 280
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 42 73 N 1 0 0 1 0 0 3
+Refer: 104 168 N 1 0 0 1 -107 150 2
+EndChar

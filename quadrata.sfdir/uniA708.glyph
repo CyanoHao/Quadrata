@@ -1,0 +1,19 @@
+StartChar: uniA708
+Encoding: 42760 42760 2544
+Width: 418
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+274 0 m 1
+ 274 625 l 1
+ 340 625 l 1
+ 340 0 l 1
+ 274 0 l 1
+182 573 m 0
+ 182 541 160 522 130 522 c 0
+ 99 522 78 540 78 573 c 256
+ 78 606 99 624 130 624 c 0
+ 161 624 182 606 182 573 c 0
+EndSplineSet
+EndChar

@@ -1,0 +1,16 @@
+StartChar: uni02BE
+Encoding: 702 702 638
+Width: 180
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+30 712 m 1
+ 95 712 150 678 150 613 c 256
+ 150 548 95 514 30 514 c 1
+ 30 559 l 1
+ 67 559 96 575 96 613 c 256
+ 96 651 67 668 30 668 c 1
+ 30 712 l 1
+EndSplineSet
+EndChar

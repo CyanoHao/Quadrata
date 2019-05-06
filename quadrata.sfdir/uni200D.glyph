@@ -1,0 +1,25 @@
+StartChar: uni200D
+Encoding: 8205 8205 2016
+Width: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-21 -121 m 1
+ -21 486 l 1
+ -83 430 l 1
+ -109 454 l 1
+ -27 529 l 1
+ -109 602 l 1
+ -83 627 l 1
+ 0 552 l 1
+ 83 627 l 1
+ 109 602 l 1
+ 27 529 l 1
+ 109 454 l 1
+ 83 430 l 1
+ 21 486 l 1
+ 21 -121 l 1
+ -21 -121 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,9 @@
+StartChar: Itilde
+Encoding: 296 296 232
+Width: 280
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 42 73 N 1 0 0 1 0 0 3
+Refer: 667 732 S 1 0 0 1 -35 180 2
+EndChar

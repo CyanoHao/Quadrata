@@ -1,0 +1,28 @@
+StartChar: b
+Encoding: 98 98 67
+Width: 579
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+63 630 m 2
+ 63 665 50 684 28 700 c 1
+ 105 700 l 2
+ 130 700 143 705 158 716 c 1
+ 158 73 l 1
+ 187 66 225 61 258 61 c 0
+ 375 60 447 130 448 245 c 0
+ 447 347 388 429 288 429 c 0
+ 249 429 214 418 186 404 c 1
+ 232 478 l 2
+ 246 502 278 505 320 505 c 0
+ 461 505 552 404 552 261 c 0
+ 552 81 419 -15 233 -15 c 0
+ 166 -14 93 -8 31 2 c 1
+ 52 17 63 36 63 70 c 2
+ 63 630 l 2
+EndSplineSet
+Substitution2: "'sups' Superscript lookup 9 subtable" uniF6EA
+Substitution2: "'ordn' Ordinals lookup 6 subtable" uniF6EA
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uniF6EA
+EndChar

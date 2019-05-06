@@ -1,0 +1,25 @@
+StartChar: uni0442
+Encoding: 1090 1090 1001
+Width: 397
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+393 382 m 1
+ 380 404 362 415 327 415 c 2
+ 243 415 l 1
+ 243 70 l 2
+ 243 34 254 15 278 0 c 1
+ 113 0 l 1
+ 135 15 148 34 148 70 c 2
+ 148 415 l 1
+ 71 415 l 1
+ 26 414 2 403 -20 377 c 1
+ 12 493 l 1
+ 27 486 32 485 58 485 c 2
+ 369 485 l 2
+ 390 485 402 486 417 493 c 1
+ 393 382 l 1
+EndSplineSet
+Kerns2: 2041 -38 "'kern' Horizontal Kerning lookup 1 subtable" 15 -27 "'kern' Horizontal Kerning lookup 1 subtable" 13 -36 "'kern' Horizontal Kerning lookup 1 subtable"
+EndChar

@@ -1,0 +1,124 @@
+SplineFontDB: 3.0
+FontName: Quadrata-Regular
+FullName: Quadrata Regular
+FamilyName: Quadrata
+Weight: Regular
+Copyright: Copyright (c) 1990-2002 ParaType. All Rights Reserved. Friz Quadrata is a registered trade mark of International Typeface Corporation.\nCopyright 2015 Google Inc. All Rights Reserved.
+Version: 1.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+sfntRevision: 0x00010000
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 733 -560781076 26887]
+StyleMap: 0x0040
+FSType: 8
+OS2Version: 3
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1371800680
+ModificationTime: 1557117454
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 2 14 6 2 3 4 4 2 4 4
+OS2TypoAscent: 800
+OS2TypoAOffset: 0
+OS2TypoDescent: -200
+OS2TypoDOffset: 0
+OS2TypoLinegap: 200
+OS2WinAscent: 800
+OS2WinAOffset: 0
+OS2WinDescent: 200
+OS2WinDOffset: 0
+HheadAscent: 800
+HheadAOffset: 0
+HheadDescent: 200
+HheadDOffset: 0
+OS2SubXSize: 650
+OS2SubYSize: 600
+OS2SubXOff: 0
+OS2SubYOff: 75
+OS2SupXSize: 650
+OS2SupYSize: 600
+OS2SupXOff: 0
+OS2SupYOff: 350
+OS2StrikeYSize: 50
+OS2StrikeYPos: 250
+OS2CapHeight: 700
+OS2XHeight: 489
+OS2FamilyClass: 1807
+OS2Vendor: 'PARA'
+OS2CodePages: 20000097.00000000
+OS2UnicodeRanges: e00002ff.500060df.08000029.00100000
+Lookup: 1 0 0 "'aalt' Access All Alternates lookup 0" { "'aalt' Access All Alternates lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'AZE ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 3 0 0 "'aalt' Access All Alternates lookup 1" { "'aalt' Access All Alternates lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'AZE ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition lookup 2" { "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 0"  "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'AZE ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'frac' Diagonal Fractions lookup 3" { "'frac' Diagonal Fractions lookup 3 subtable"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'AZE ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'subs' Subscript lookup 4" { "'subs' Subscript lookup 4 subtable" ("inferior") } ['subs' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'AZE ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'sinf' Scientific Inferiors lookup 5" { "'sinf' Scientific Inferiors lookup 5 subtable"  } ['sinf' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'AZE ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ordn' Ordinals lookup 6" { "'ordn' Ordinals lookup 6 subtable"  } ['ordn' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'AZE ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'ordn' Ordinals lookup 7" { "'ordn' Ordinals lookup 7 subtable"  } ['ordn' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'AZE ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 8" { "'locl' Localized Forms in Latin lookup 8 subtable"  } ['locl' ('latn' <'MOL ' 'ROM ' > ) ]
+Lookup: 1 0 0 "'sups' Superscript lookup 9" { "'sups' Superscript lookup 9 subtable" ("superior") } ['sups' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'AZE ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'sups' Superscript lookup 10" { "'sups' Superscript lookup 10 subtable" ("superior") } ['sups' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'AZE ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 11" { "'liga' Standard Ligatures lookup 11 subtable"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'MOL ' 'ROM ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 12" { "'liga' Standard Ligatures in Latin lookup 12 subtable"  } ['liga' ('latn' <'AZE ' 'TRK ' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 13" { "Single Substitution lookup 13 subtable"  } []
+Lookup: 257 0 0 "'cpsp' Capital Spacing lookup 0" { "'cpsp' Capital Spacing lookup 0 subtable"  } ['cpsp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'AZE ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 1" { "'kern' Horizontal Kerning lookup 1 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'AZE ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 1" 0 0 0 1
+ 1 1 0
+  Coverage: 9 acutecomb
+  BCoverage: 187 b d f h k l t germandbls eth dcaron dcroat hcircumflex Iogonek uni0137 uni013C lcaron lslash uni0163 tcaron uni01D0 uni021B uni0431 uni0444 uni0451 uni0452 uni045B uni04BB uniF001 uniF002
+ 1
+  SeqLookup: 0 "Single Substitution lookup 13"
+EndFPST
+ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 0" 0 0 0 1
+ 1 1 0
+  Coverage: 9 acutecomb
+  BCoverage: 1301 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccircumflex Ccaron Dcaron Dcroat Emacron Edotaccent Eogonek Ecaron Gcircumflex Gbreve uni0122 Hcircumflex Imacron Iogonek Idotaccent Jcircumflex uni0136 Lacute uni013B Lcaron Lslash Nacute uni0145 Ncaron Omacron Obreve Ohungarumlaut OE Racute uni0156 Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Umacron Ubreve Uring Uhungarumlaut Uogonek Ydieresis Zacute Zdotaccent Zcaron uni01CF Gcaron uni0218 uni021A uni0401 uni0402 uni0403 uni0404 uni0405 uni0406 uni0407 uni0408 uni0409 uni040A uni040B uni040C uni040E uni040F uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni0419 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F uni0490 uni0498 uni04AA uni04AE uni04B0 uni04D0 uni04D2 uni04D4 uni04D6 uni04DC uni04DE uni04E2 uni04E4 uni04E6 uni04EE uni04F0 uni04F2 uni04F4 uni04F8 uniF47E uniF485 uniF4C4 uniF4C8 uniF4CC
+ 1
+  SeqLookup: 0 "Single Substitution lookup 13"
+EndFPST
+ShortTable: maxp 16
+  1
+  0
+  2911
+  234
+  24
+  252
+  21
+  2
+  12
+  3
+  7
+  0
+  1024
+  0
+  7
+  2
+EndShort
+LangName: 1033 "" "" "" "Quadrata Regular 1.000" "" "1.000" "" "This software is a property of ParaType. Friz Quadrata is a registered trade mark of International Typeface Corporation." "ParaType Ltd" "Info may be found at http://www.paratype.com" "May be found at http://www.paratype.com" "http://www.paratype.com" "http://www.paratype.com" "THIS IS UNLICENSED SOFTWARE. COMMERCIAL USE FORBIDDEN.+AAoA-BlizQuadrata: http://www.paratype.com/eula+AAoA-Noto Serif Regular: This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an +ACIA-AS IS+ACIA BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 32 13
+BeginPrivate: 2
+BlueValues 23 [-15 0 485 505 649 715]
+OtherBlues 11 [-221 -218]
+EndPrivate
+TeXData: 1 0 0 244318 122159 81439 508559 1048576 81439 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+EndSplineFont

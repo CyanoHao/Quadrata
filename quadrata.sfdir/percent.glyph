@@ -1,0 +1,33 @@
+StartChar: percent
+Encoding: 37 37 6
+Width: 694
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+477 700 m 1
+ 537 700 l 1
+ 210 0 l 1
+ 150 0 l 1
+ 477 700 l 1
+40 534 m 0
+ 40 628 96 700 188 700 c 0
+ 278 699 337 630 337 536 c 0
+ 336 446 278 375 190 375 c 0
+ 98 375 40 441 40 534 c 0
+190 430 m 257
+ 285 430 279 647 187 645 c 1
+ 94 648 95 424 190 430 c 257
+357 159 m 0
+ 357 253 413 325 505 325 c 0
+ 596 325 653 254 654 161 c 0
+ 654 70 595 0 507 0 c 0
+ 415 0 357 66 357 159 c 0
+507 55 m 0
+ 602 54 595 272 504 270 c 256
+ 451 270 437 218 437 160 c 0
+ 436 103 455 53 507 55 c 0
+EndSplineSet
+Ligature2: "'frac' Diagonal Fractions lookup 3 subtable" zero uni2215 zero
+Ligature2: "'frac' Diagonal Fractions lookup 3 subtable" zero slash zero
+EndChar

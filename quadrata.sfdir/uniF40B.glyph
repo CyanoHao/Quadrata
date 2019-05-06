@@ -1,0 +1,14 @@
+StartChar: uniF40B
+Encoding: 62475 62475 2794
+Width: 136
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+68 741 m 0
+ 30 741 0 771 0 809 c 0
+ 0 847 30 877 68 877 c 0
+ 105 877 136 846 136 809 c 0
+ 136 771 106 741 68 741 c 0
+EndSplineSet
+EndChar

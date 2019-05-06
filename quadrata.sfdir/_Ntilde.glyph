@@ -1,0 +1,10 @@
+StartChar: Ntilde
+Encoding: 209 209 145
+Width: 777
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 47 78 N 1 0 0 1 0 0 3
+Refer: 2796 62477 N 1 0 0 1 209 0 2
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

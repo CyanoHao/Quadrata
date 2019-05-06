@@ -1,0 +1,16 @@
+StartChar: uni1FEF
+Encoding: 8175 8175 1990
+Width: 254
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+135 691 m 1
+ 141 654 163 593 176 562 c 1
+ 176 551 l 1
+ 143 551 l 1
+ 112 582 58 636 45 681 c 1
+ 45 691 l 1
+ 135 691 l 1
+EndSplineSet
+EndChar

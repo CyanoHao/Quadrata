@@ -1,0 +1,17 @@
+StartChar: uni1ABA
+Encoding: 6842 6842 1249
+Width: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-413 -203 m 0
+ -413 -235 -437 -254 -470 -254 c 256
+ -502 -254 -527 -235 -527 -203 c 0
+ -527 -173 -504 -151 -475 -151 c 1
+ -396 38 l 1
+ -348 24 l 1
+ -427 -167 l 1
+ -418 -176 -413 -188 -413 -203 c 0
+EndSplineSet
+EndChar

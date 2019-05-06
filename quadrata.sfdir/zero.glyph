@@ -1,0 +1,23 @@
+StartChar: zero
+Encoding: 48 48 17
+Width: 640
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+34 357 m 0
+ 34 552 137 714 323 715 c 0
+ 510 715 606 541 606 343 c 0
+ 606 149 503 -15 317 -15 c 0
+ 129 -14 34 157 34 357 c 0
+149 372 m 0
+ 149 230 191 67 318 67 c 0
+ 439 67 491 194 491 328 c 0
+ 490 467 448 633 323 633 c 0
+ 201 633 149 506 149 372 c 0
+EndSplineSet
+Substitution2: "'sups' Superscript lookup 10 subtable" uni2070
+Substitution2: "'sinf' Scientific Inferiors lookup 5 subtable" uni2080
+Substitution2: "'subs' Subscript lookup 4 subtable" uni2080
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni2080 uni2070
+EndChar

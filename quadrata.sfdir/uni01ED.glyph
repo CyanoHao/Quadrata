@@ -1,0 +1,10 @@
+StartChar: uni01ED
+Encoding: 493 493 429
+Width: 610
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 80 111 N 1 0 0 1 0 0 3
+Refer: 111 175 N 1 0 0 1 100 0 2
+Refer: 666 731 N 1 0 0 1 1 0 2
+EndChar

@@ -1,0 +1,14 @@
+StartChar: figuredash
+Encoding: 8210 8210 2021
+Width: 559
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+519 360 m 1
+ 519 306 l 1
+ 40 306 l 1
+ 40 360 l 1
+ 519 360 l 1
+EndSplineSet
+EndChar

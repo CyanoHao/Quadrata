@@ -1,0 +1,20 @@
+StartChar: uniF6F0
+Encoding: 63216 63216 2831
+Width: 398
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+27 554 m 0
+ 27 647 107 715 201 715 c 0
+ 298 715 371 648 371 554 c 0
+ 370 460 292 393 196 393 c 0
+ 98 393 27 460 27 554 c 0
+298 554 m 0
+ 297 615 261 659 198 659 c 0
+ 139 659 100 614 100 554 c 0
+ 99 491 136 449 200 449 c 0
+ 260 448 297 495 298 554 c 0
+EndSplineSet
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" ordmasculine
+EndChar

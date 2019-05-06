@@ -1,0 +1,26 @@
+StartChar: uni20BC
+Encoding: 8380 8380 2184
+Width: 786
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+367 460 m 1
+ 224 450 188 339 188 175 c 2
+ 188 0 l 1
+ 94 0 l 1
+ 94 175 l 2
+ 94 380 169 494 367 504 c 1
+ 367 613 l 1
+ 419 613 l 1
+ 419 504 l 1
+ 625 496 692 385 692 175 c 2
+ 692 0 l 1
+ 598 0 l 1
+ 598 175 l 2
+ 598 337 557 444 419 459 c 1
+ 419 0 l 1
+ 367 0 l 1
+ 367 460 l 1
+EndSplineSet
+EndChar

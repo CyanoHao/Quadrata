@@ -1,0 +1,19 @@
+StartChar: uni1DCD
+Encoding: 7629 7629 1468
+Width: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-1 809 m 1
+ -70 779 -154 746 -234 727 c 1
+ -276 727 l 1
+ -276 739 l 1
+ -202 774 -109 823 -48 872 c 1
+ 47 872 l 1
+ 108 823 202 776 276 739 c 1
+ 276 727 l 1
+ 234 727 l 1
+ 153 746 66 779 -1 809 c 1
+EndSplineSet
+EndChar

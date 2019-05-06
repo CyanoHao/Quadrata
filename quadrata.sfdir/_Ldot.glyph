@@ -1,0 +1,9 @@
+StartChar: Ldot
+Encoding: 319 319 255
+Width: 514
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 45 76 N 1 0 0 1 0 0 3
+Refer: 664 729 S 1 0 0 1 300 -306 2
+EndChar

@@ -1,0 +1,28 @@
+StartChar: r
+Encoding: 114 114 83
+Width: 315
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+160 70 m 2
+ 160 33 175 14 200 0 c 1
+ 30 0 l 1
+ 52 15 65 34 65 70 c 2
+ 65 415 l 2
+ 65 450 52 469 30 485 c 1
+ 103 485 l 1
+ 128 483 141 489 155 501 c 1
+ 155 421 l 1
+ 182 464 226 505 290 505 c 0
+ 302 504 314 503 325 501 c 1
+ 325 403 l 1
+ 309 413 294 419 270 419 c 0
+ 193 418 160 361 160 276 c 2
+ 160 70 l 2
+EndSplineSet
+Kerns2: 2041 -28 "'kern' Horizontal Kerning lookup 1 subtable" 66 -30 "'kern' Horizontal Kerning lookup 1 subtable" 15 -11 "'kern' Horizontal Kerning lookup 1 subtable" 13 -36 "'kern' Horizontal Kerning lookup 1 subtable"
+Substitution2: "'sups' Superscript lookup 9 subtable" uniF6F1
+Substitution2: "'ordn' Ordinals lookup 6 subtable" uniF6F1
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uniF6F1
+EndChar

@@ -1,0 +1,19 @@
+StartChar: twodotenleader
+Encoding: 8229 8229 2040
+Width: 536
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+474 323 m 0
+ 474 281 450 262 411 262 c 0
+ 372 262 348 281 348 323 c 0
+ 348 366 372 385 411 385 c 0
+ 450 385 474 366 474 323 c 0
+188 323 m 0
+ 188 281 164 262 125 262 c 0
+ 86 262 62 281 62 323 c 0
+ 62 366 85 385 125 385 c 0
+ 165 385 188 367 188 323 c 0
+EndSplineSet
+EndChar

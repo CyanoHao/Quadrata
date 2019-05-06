@@ -1,0 +1,19 @@
+StartChar: glyph2876
+Encoding: 65553 -1 2876
+Width: 500
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+105 705 m 1
+ 105 759 l 1
+ 395 759 l 1
+ 395 705 l 1
+ 105 705 l 1
+301 602 m 0
+ 301 568 282 552 250 552 c 0
+ 218 552 199 567 199 602 c 256
+ 199 637 218 653 250 653 c 0
+ 282 653 301 637 301 602 c 0
+EndSplineSet
+EndChar

@@ -1,0 +1,22 @@
+StartChar: Z
+Encoding: 90 90 59
+Width: 609
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+386 615 m 1
+ 339 620 275 626 224 626 c 0
+ 140 626 97 613 48 578 c 1
+ 99 700 l 1
+ 565 700 l 1
+ 187 89 l 1
+ 272 84 315 80 384 80 c 0
+ 483 80 556 95 619 134 c 1
+ 565 0 l 1
+ 5 0 l 1
+ 386 615 l 1
+EndSplineSet
+Kerns2: 90 -34 "'kern' Horizontal Kerning lookup 1 subtable" 88 -28 "'kern' Horizontal Kerning lookup 1 subtable" 87 -51 "'kern' Horizontal Kerning lookup 1 subtable" 50 -16 "'kern' Horizontal Kerning lookup 1 subtable" 48 -16 "'kern' Horizontal Kerning lookup 1 subtable" 40 -17 "'kern' Horizontal Kerning lookup 1 subtable" 36 -12 "'kern' Horizontal Kerning lookup 1 subtable"
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

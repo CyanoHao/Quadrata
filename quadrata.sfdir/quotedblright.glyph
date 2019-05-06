@@ -1,0 +1,26 @@
+StartChar: quotedblright
+Encoding: 8221 8221 2032
+Width: 400
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+170 745 m 0
+ 170 680 121 620 81 585 c 1
+ 40 585 l 1
+ 64 611 104 649 104 684 c 0
+ 104 700 65 705 56 715 c 128
+ 47 725 43 737 43 752 c 0
+ 43 788 67 812 104 812 c 256
+ 143 812 170 784 170 745 c 0
+360 745 m 0
+ 360 680 311 620 271 585 c 1
+ 230 585 l 1
+ 254 611 294 649 294 684 c 0
+ 294 700 255 705 246 715 c 128
+ 237 725 232 737 233 752 c 0
+ 233 788 257 812 294 812 c 256
+ 333 812 360 784 360 745 c 0
+EndSplineSet
+Kerns2: 43 -4 "'kern' Horizontal Kerning lookup 1 subtable" 34 -150 "'kern' Horizontal Kerning lookup 1 subtable"
+EndChar

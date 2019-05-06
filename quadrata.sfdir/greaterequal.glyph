@@ -1,0 +1,21 @@
+StartChar: greaterequal
+Encoding: 8805 8805 2299
+Width: 640
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+563 406 m 1
+ 63 89 l 1
+ 37 129 l 1
+ 472 406 l 1
+ 37 683 l 1
+ 63 723 l 1
+ 563 406 l 1
+605 269 m 1
+ 104 -48 l 1
+ 78 -8 l 1
+ 579 309 l 1
+ 605 269 l 1
+EndSplineSet
+EndChar

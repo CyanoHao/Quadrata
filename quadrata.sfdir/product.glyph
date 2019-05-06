@@ -1,0 +1,24 @@
+StartChar: product
+Encoding: 8719 8719 2289
+Width: 727
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+43 0 m 1
+ 75 23 89 46 89 100 c 2
+ 89 600 l 2
+ 89 654 75 676 43 700 c 1
+ 684 700 l 1
+ 652 677 638 655 638 600 c 2
+ 638 100 l 2
+ 638 45 651 23 684 0 c 1
+ 490 0 l 1
+ 522 23 536 46 536 100 c 2
+ 536 620 l 1
+ 191 620 l 1
+ 191 100 l 2
+ 191 45 204 23 237 0 c 1
+ 43 0 l 1
+EndSplineSet
+EndChar

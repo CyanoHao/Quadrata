@@ -1,0 +1,10 @@
+StartChar: Imacron
+Encoding: 298 298 234
+Width: 280
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 111 175 S 0.732984 0 0 1 0 172 2
+Refer: 42 73 N 1 0 0 1 0 0 3
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

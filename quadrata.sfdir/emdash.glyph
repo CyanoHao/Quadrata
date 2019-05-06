@@ -1,0 +1,18 @@
+StartChar: emdash
+Encoding: 8212 8212 2023
+Width: 994
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+753 274 m 2
+ 244 274 l 1
+ 194 272 159 264 120 247 c 1
+ 171 315 l 2
+ 190 341 196 348 242 348 c 2
+ 750 348 l 2
+ 812 348 825 354 874 375 c 1
+ 824 307 l 2
+ 805 280 797 274 753 274 c 2
+EndSplineSet
+EndChar

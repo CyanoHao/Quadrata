@@ -1,0 +1,25 @@
+StartChar: uni0420
+Encoding: 1056 1056 967
+Width: 560
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+191 116 m 1
+ 190 55 211 18 253 0 c 1
+ 43 0 l 1
+ 75 23 89 46 89 100 c 2
+ 89 600 l 1
+ 88 652 74 677 43 700 c 1
+ 291 700 l 1
+ 438 699 540 649 540 515 c 256
+ 540 393 441 314 314 315 c 0
+ 284 315 254 320 229 328 c 1
+ 337 332 424 387 425 495 c 0
+ 424 580 364 626 275 626 c 0
+ 246 625 217 621 191 616 c 1
+ 191 116 l 1
+EndSplineSet
+Kerns2: 2041 -155 "'kern' Horizontal Kerning lookup 1 subtable" 1016 -10 "'kern' Horizontal Kerning lookup 1 subtable" 1014 -28 "'kern' Horizontal Kerning lookup 1 subtable" 1012 -20 "'kern' Horizontal Kerning lookup 1 subtable" 1006 -19 "'kern' Horizontal Kerning lookup 1 subtable" 1003 -39 "'kern' Horizontal Kerning lookup 1 subtable" 1000 -40 "'kern' Horizontal Kerning lookup 1 subtable" 997 -40 "'kern' Horizontal Kerning lookup 1 subtable" 994 -20 "'kern' Horizontal Kerning lookup 1 subtable" 990 -10 "'kern' Horizontal Kerning lookup 1 subtable" 988 -10 "'kern' Horizontal Kerning lookup 1 subtable" 987 -50 "'kern' Horizontal Kerning lookup 1 subtable" 983 -48 "'kern' Horizontal Kerning lookup 1 subtable" 962 -18 "'kern' Horizontal Kerning lookup 1 subtable" 955 -41 "'kern' Horizontal Kerning lookup 1 subtable" 952 -10 "'kern' Horizontal Kerning lookup 1 subtable" 951 -47 "'kern' Horizontal Kerning lookup 1 subtable" 28 -65 "'kern' Horizontal Kerning lookup 1 subtable" 27 -55 "'kern' Horizontal Kerning lookup 1 subtable" 15 -127 "'kern' Horizontal Kerning lookup 1 subtable" 13 -132 "'kern' Horizontal Kerning lookup 1 subtable"
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

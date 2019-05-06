@@ -1,0 +1,10 @@
+StartChar: Nacute
+Encoding: 323 323 259
+Width: 777
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 47 78 N 1 0 0 1 0 0 3
+Refer: 2808 63177 N 1 0 0 1 230 0 2
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

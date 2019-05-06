@@ -1,0 +1,16 @@
+StartChar: acutecomb
+Encoding: 769 769 2785
+AltUni2: 00f400.ffffffff.0
+Width: 2
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-153 710 m 1
+ -99 633 l 1
+ -397 550 l 1
+ -400 553 l 1
+ -153 710 l 1
+EndSplineSet
+Substitution2: "Single Substitution lookup 13 subtable" uniF401
+EndChar

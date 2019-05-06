@@ -1,0 +1,16 @@
+StartChar: uniFE29
+Encoding: 65065 65065 2850
+Width: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-210 -115 m 0
+ -280 -115 -316 -132 -339 -178 c 1
+ -384 -178 l 1
+ -363 -105 -301 -61 -207 -61 c 0
+ -142 -61 -73 -70 0 -88 c 1
+ 0 -150 l 1
+ -75 -132 -135 -115 -210 -115 c 0
+EndSplineSet
+EndChar

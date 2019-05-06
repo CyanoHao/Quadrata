@@ -1,0 +1,30 @@
+StartChar: notequal
+Encoding: 8800 8800 2297
+Width: 640
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+39 467 m 1
+ 367 467 l 1
+ 477 625 l 1
+ 522 594 l 1
+ 433 467 l 1
+ 602 467 l 1
+ 602 412 l 1
+ 395 412 l 1
+ 308 288 l 1
+ 602 288 l 1
+ 602 233 l 1
+ 269 233 l 1
+ 161 77 l 1
+ 116 109 l 1
+ 203 233 l 1
+ 39 233 l 1
+ 39 288 l 1
+ 241 288 l 1
+ 327 412 l 1
+ 39 412 l 1
+ 39 467 l 1
+EndSplineSet
+EndChar

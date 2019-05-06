@@ -1,0 +1,15 @@
+StartChar: periodcentered
+Encoding: 183 183 119
+AltUni2: 002219.ffffffff.0
+Width: 328
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+164 196 m 0
+ 116 195 80 233 80 280 c 0
+ 80 327 117 364 164 364 c 0
+ 210 364 248 326 248 280 c 0
+ 247 233 211 196 164 196 c 0
+EndSplineSet
+EndChar

@@ -1,0 +1,22 @@
+StartChar: uni0421
+Encoding: 1057 1057 968
+Width: 667
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+425 715 m 0
+ 492 715 548 693 611 688 c 1
+ 611 566 l 1
+ 562 600 492 630 413 630 c 0
+ 265 630 151 525 151 372 c 0
+ 151 194 262 70 437 70 c 0
+ 540 70 616 95 672 144 c 1
+ 604 10 l 1
+ 546 -7 500 -14 429 -15 c 0
+ 196 -15 35 120 36 345 c 0
+ 36 563 199 714 425 715 c 0
+EndSplineSet
+Kerns2: 959 -1 "'kern' Horizontal Kerning lookup 1 subtable"
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

@@ -1,0 +1,21 @@
+StartChar: radical
+Encoding: 8730 8730 2293
+Width: 725
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 427 m 1
+ 254 427 l 1
+ 423 -11 l 1
+ 580 758 l 1
+ 720 758 l 1
+ 720 717 l 1
+ 613 717 l 1
+ 424 -211 l 1
+ 406 -211 l 1
+ 161 386 l 1
+ 5 386 l 1
+ 5 427 l 1
+EndSplineSet
+EndChar

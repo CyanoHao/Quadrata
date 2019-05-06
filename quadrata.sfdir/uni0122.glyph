@@ -1,0 +1,10 @@
+StartChar: uni0122
+Encoding: 290 290 226
+Width: 744
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 40 71 N 1 0 0 1 0 0 3
+Refer: 2792 62473 N 1 0 0 1 299 0 2
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

@@ -1,0 +1,16 @@
+StartChar: uniF6D1
+Encoding: 63185 63185 2814
+Width: 304
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+304 889 m 1
+ 307 805 238 746 152 747 c 0
+ 66 747 -3 805 0 889 c 1
+ 88 889 l 1
+ 54 841 113 808 152 808 c 0
+ 191 808 248 842 216 889 c 1
+ 304 889 l 1
+EndSplineSet
+EndChar

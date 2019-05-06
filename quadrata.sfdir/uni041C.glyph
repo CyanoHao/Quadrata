@@ -1,0 +1,32 @@
+StartChar: uni041C
+Encoding: 1052 1052 963
+Width: 920
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+84 700 m 1
+ 262 700 l 1
+ 464 177 l 1
+ 652 630 l 2
+ 660 649 668 676 673 700 c 1
+ 846 700 l 1
+ 816 682 807 649 814 599 c 2
+ 879 89 l 2
+ 884 43 898 20 928 0 c 1
+ 734 0 l 1
+ 772 25 778 52 770 125 c 2
+ 717 595 l 1
+ 470 -10 l 1
+ 442 14 l 2
+ 417 35 403 62 389 98 c 2
+ 193 593 l 1
+ 126 117 l 1
+ 115 47 125 20 166 0 c 1
+ -8 0 l 1
+ 23 28 38 64 46 114 c 2
+ 116 596 l 1
+ 124 661 119 678 84 700 c 1
+EndSplineSet
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

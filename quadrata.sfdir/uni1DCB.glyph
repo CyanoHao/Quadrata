@@ -1,0 +1,18 @@
+StartChar: uni1DCB
+Encoding: 7627 7627 1466
+Width: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-285 551 m 0
+ -372 551 -418 590 -425 669 c 1
+ -377 669 l 1
+ -366 632 -335 614 -284 613 c 0
+ -237 613 -206 632 -191 669 c 1
+ 99 669 l 1
+ 99 615 l 1
+ -160 615 l 1
+ -181 572 -223 551 -285 551 c 0
+EndSplineSet
+EndChar

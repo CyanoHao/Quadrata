@@ -1,0 +1,17 @@
+StartChar: uni0362
+Encoding: 866 866 800
+Width: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+205 -198 m 1
+ 205 -148 l 1
+ -295 -148 l 1
+ -295 -83 l 1
+ 205 -83 l 1
+ 205 -33 l 1
+ 295 -115 l 1
+ 205 -198 l 1
+EndSplineSet
+EndChar

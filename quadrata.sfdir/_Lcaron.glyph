@@ -1,0 +1,10 @@
+StartChar: Lcaron
+Encoding: 317 317 253
+Width: 514
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 45 76 N 1 0 0 1 0 0 3
+Refer: 2793 62474 N 1 0 0 1 253 0 2
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar

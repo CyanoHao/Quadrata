@@ -1,0 +1,23 @@
+StartChar: uniAB45
+Encoding: 43845 43845 2750
+Width: 543
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+271 241 m 256
+ 156 241 130 145 130 18 c 2
+ 130 0 l 1
+ 38 0 l 1
+ 38 18 l 2
+ 38 179 91 269 226 286 c 1
+ 226 487 l 1
+ 317 487 l 1
+ 317 286 l 1
+ 450 268 505 179 505 18 c 2
+ 505 0 l 1
+ 413 0 l 1
+ 413 18 l 2
+ 413 146 386 241 271 241 c 256
+EndSplineSet
+EndChar

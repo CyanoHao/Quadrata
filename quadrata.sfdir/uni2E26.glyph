@@ -1,0 +1,20 @@
+StartChar: uni2E26
+Encoding: 11814 11814 2409
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+257 322 m 256
+ 257 210 390 219 502 219 c 2
+ 788 219 l 1
+ 788 175 l 1
+ 502 175 l 2
+ 358 175 211 177 211 322 c 256
+ 211 467 359 468 502 468 c 2
+ 788 468 l 1
+ 788 424 l 1
+ 502 424 l 2
+ 390 424 257 433 257 322 c 256
+EndSplineSet
+EndChar

@@ -1,0 +1,27 @@
+StartChar: Iogonek
+Encoding: 302 302 238
+Width: 280
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+89 600 m 1
+ 88 652 74 677 43 700 c 1
+ 237 700 l 1
+ 205 677 191 653 191 600 c 2
+ 191 100 l 1
+ 190 47 205 22 237 0 c 1
+ 215 0 l 1
+ 178 -21 138 -44 138 -88 c 0
+ 137 -113 152 -130 177 -130 c 0
+ 215 -130 245 -109 263 -86 c 1
+ 288 -118 l 1
+ 263 -155 228 -181 173 -183 c 0
+ 119 -182 73 -154 73 -101 c 0
+ 73 -49 107 -12 150 0 c 1
+ 43 0 l 1
+ 75 22 89 48 89 100 c 2
+ 89 600 l 1
+EndSplineSet
+Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=5 dy=0 dh=10 dv=0
+EndChar
